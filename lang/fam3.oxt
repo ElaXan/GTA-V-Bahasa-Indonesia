@@ -1,0 +1,23 @@
+﻿Version 2 30
+{
+	FAM3_CATTA = ~s~Pelatih tenis diserang.
+	FAM3_CDEAD = ~s~Pelatih tenis meninggal.
+	FAM3_CSPOOK = ~s~Pelatih tenis ketakutan.
+	FAM3_DCAN = Mengemudi ke ~y~canyon.
+	FAM3_DHOUSE = Kembali ke ~y~rumah Michael.
+	FAM3_FAIL = ~s~Misi Gagal
+	FAM3_FTC = Ikuti ~r~pelatih tenis.
+	FAM3_GBIT = Kembali ke dalam ~b~truk.
+	FAM3_GIT = Masuk ke dalam ~b~truk.
+	FAM3_HCAM = Tekan ~INPUT_VEH_CIN_CAM~ untuk beralih fokus ke pelatih tenis.~s~
+	FAM3_HPASS1 = Sebagai penumpang, tahan ~INPUT_VEH_PASSENGER_AIM~ untuk mengarahkan dan tekan ~INPUT_VEH_PASSENGER_ATTACK~ untuk menembak dari dalam kendaraan.~s~
+	FAM3_HPASS2 = Pilih senjata lain saat berada di dalam kendaraan dengan menggunakan ~INPUT_VEH_SELECT_NEXT_WEAPON~.~s~
+	FAM3_HPASS3 = Pilih senjata lain saat berada di dalam kendaraan dengan menggunakan ~INPUT_VEH_SELECT_NEXT_WEAPON~.~s~
+	FAM3_HPULL = Tahan ~INPUT_VEH_ACCELERATE~ untuk mempercepat.~s~
+	FAM3_HSTAT1 = Akurasi senjata, kapasitas amunisi maksimum, kecepatan reload, dan pergerakan bidik akan meningkat seiring dengan peningkatan Stat Menembak.~s~
+	FAM3_HSTAT2 = Stat Menembak akan meningkat dengan suksesnya tembakan pada musuh. Tingkatkan ini lebih cepat dengan pergi ke Lapangan Tembak atau melakukan tembakan ke kepala.~s~
+	FAM3_HSWITCH = SWITCH tersedia antara Michael dan Franklin.~s~
+	FAM3_LGOONS = Hilangkan ~r~orang Madrazo.
+	FAM3_TDEST = ~s~Truk hancur.
+	FAM3_TUND = ~s~Truk terjebak.
+}

@@ -1,0 +1,43 @@
+﻿Version 2 30
+{
+	0x218C559F = Kamu menang dalam permainan
+	0x441B9CB7 = Kamu kalah dalam permainan
+	0x60819E44 = Bersiaplah untuk lomba gulat tangan
+	0xAC71E7D8 = Kamu kalah dalam ronde gulat tangan ini.
+	0xC0655159 = ~INPUT_SCRIPT_LEFT_AXIS_X~ atau ~INPUT_SCRIPT_RIGHT_AXIS_X~ Gulat~n~~INPUT_SCRIPT_SELECT~ Keluar
+	0xC3D312CC = Kamu menang dalam ronde gulat tangan ini.
+	0xDAC297B6 = Selamat datang di Gulat Tangan. Kamu bisa bergulat dengan siapa saja di gengmu di sini. Tekan ~INPUT_FRONTEND_ACCEPT~ untuk mulai.
+	0xE872E16B = Selamat datang di Gulat Tangan. Kamu bisa bergulat dengan siapa saja di sesi GTA Online-mu di sini. Tekan ~INPUT_FRONTEND_ACCEPT~ untuk mulai.
+	ARMMP_END_QT = Keluar
+	ARMMP_HOW_TO_1 = Selamat datang di Gulat Tangan, melawan ~a~.
+	ARMMP_HOW_TO_2 = Menang dengan menjatuhkan lengan lawan ke meja.
+	ARMMP_HOW_TO_3 = Jatuhkan lengan lawan dengan cepat menggerakkan ~INPUT_SCRIPT_LEFT_AXIS_X~ atau ~INPUT_SCRIPT_RIGHT_AXIS_X~ secara horizontal.
+	ARMMP_HOW_TO_4 = Jatuhkan lengan lawan dengan cepat mengetuk ~INPUT_SCRIPT_LEFT_AXIS_X~.
+	ARMMP_HOW_TO_12 = Selamat datang di Gulat Tangan.
+	ARMMP_QUITUI_D = Apakah kamu yakin ingin keluar dari Gulat Tangan?
+	ARMMP_REGAME = Selamat datang kembali di Gulat Tangan, melawan ~a~.
+	ARMMP_REGAME2 = Selamat datang kembali di Gulat Tangan.
+	ARMMP_REMATCH = Ulang Pertandingan
+	ARMMP_REQ_RM = ~a~ telah meminta ulang pertandingan.
+	ARMMP_REQ_RM2 = Permintaan ulang pertandingan.
+	ARMMP_SC_LOSE = KALAH
+	ARMMP_SC_TSCORE = Kemenangan Mereka
+	ARMMP_SC_USCORE = Kemenanganmu
+	ARMMP_SC_WIN = PEMENANG
+	ARMMP_TABLE1 = GULAT TANGAN VINEWOOD
+	ARMMP_TABLE2 = GULAT TANGAN EL BURRO
+	ARMMP_TABLE3 = GULAT TANGAN SAN ANDREAS
+	ARMMP_TABLE4 = GULAT TANGAN ELYSIAN
+	ARMMP_TABLE5 = GULAT TANGAN SENORA
+	ARMMP_TABLE6 = GULAT TANGAN SENORA
+	ARMMP_TABLE7 = GULAT TANGAN HARMONY
+	ARMMP_TABLE8 = GULAT TANGAN PALETO BAY
+	ARMMP_TABLE9 = GULAT TANGAN GRAPESEED
+	ARMMP_TABLE10 = GULAT TANGAN SENORA
+	ARMMP_TUT_1 = Gerakkan ~INPUT_SCRIPT_LEFT_AXIS_X~ atau ~INPUT_SCRIPT_RIGHT_AXIS_X~ ke kiri dan kanan dengan cepat untuk bergulat tangan.
+	ARMMP_TUT_2 = Ketuk ~INPUT_SCRIPT_LEFT_AXIS_X~ dengan cepat untuk bergulat tangan.
+	ARMMP_WAIT_RD = Menunggu pemain lain siap...
+	ARMMP_WAIT_RM = Menunggu lawan...
+	ARMMP_WRESTLE = Gulat
+	ARMMP_XPT = ~g~+~1~ ~a~:~s~ Pertandingan gulat tangan dimenangkan.
+}

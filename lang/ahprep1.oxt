@@ -1,0 +1,9 @@
+﻿Version 2 30
+{
+	AHP_DEADTRUCK = Truk pemadam kebakaran telah hancur.
+	AHP_DROPOFF = Pergi ke ~y~pabrik garmen. ~s~
+	AHP_GETBAKIN = Kembali ke dalam ~b~truk pemadam kebakaran. ~s~
+	AHP_GETOUT = Keluar dari truk pemadam kebakaran.
+	AHP_LOSECOPS = Lepaskan diri dari polisi.
+	AHP_LOSTTRUCK = Truk pemadam kebakaran telah ditinggalkan.
+}

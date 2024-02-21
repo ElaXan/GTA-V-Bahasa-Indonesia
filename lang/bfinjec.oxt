@@ -1,0 +1,38 @@
+﻿Version 2 30
+{
+	0x0025FD51 = Tekan ~INPUT_PHONE~ untuk membuka telepon.
+	0x1B0F0E7A = Akses aplikasi Sniper.
+	0x3A97D6FB = Target memerlukan kompensasi jarak untuk mengenai. Perbesar pada target untuk menghitung kompensasi jarak.
+	0x8E3AB981 = Hubungi Franklin.
+	0x9A734AE7 = Dapatkan kendaraan atau kembali ke ~b~sepeda.
+	0x22C79DEF = Penembak jitu jarak jauh tidak diaktifkan tepat waktu dan pesawat lepas landas.
+	0x87B04037 = Pergi ke ~y~titik pandang.~s~
+	0x451B14DB = Singkirkan ~r~target.~s~
+	0xD7570707 = ~s~Bawa penembak jitu ke ~y~loker.
+	2SLOW = Pesawat terlalu dekat dengan bandara.
+	BFCHASE = Ikuti pesawat dan dapatkan paketnya.
+	BFDAMAGE = Tembak mesin ~r~pesawat.
+	BFDRIVE = Pergi ke ~y~observatorium.
+	BFFLOST = Trevor kehilangan pesawat.
+	BFHELPTXT2 = Tekan ~INPUT_VEH_CIN_CAM~ untuk mengalihkan fokus ke pesawat.
+	BFHELPTXT4 = Bidik target merah yang dihitung untuk kompensasi jarak.
+	M1_FAIL1 = ~s~Penembak jitu jarak jauh hancur.
+	M1_FAIL2 = ~s~Michael meninggalkan van.
+	M1_FAIL3 = ~s~Trevor meninggal.
+	M1_FAIL4 = ~s~Michael meninggal.
+	M1_FAIL5 = ~s~Mobil Trevor hancur.
+	M1_FAIL6 = ~s~Michael menghancurkan van terlalu dekat dengan observatorium.
+	M1_GOD1 = ~s~Masuk ke dalam ~b~pesawat.
+	M1_GOD2 = ~s~Diamkan ~r~Javier.
+	M1_GOD3 = ~s~Hilangkan kejaran polisi.
+	M1_GOD4 = ~s~Hancurkan ~r~van.
+	M1_GOD5 = ~s~Tinggalkan area tersebut.
+	M1_HELP1 = ~s~Perbesar dan perkecil dengan ~INPUT_SNIPER_ZOOM~
+	M1_HELP2 = ~s~Gerakkan senapan dengan ~INPUTGROUP_LOOK~
+	M1_HELP3 = ~s~Pesawat akan memerlukan beberapa tembakan untuk dijatuhkan.
+	SNIPE4 = Jatuhkan pesawat sebelum terlambat.
+	SNIPE5 = ~s~Pergi ke rumah ~y~Martin.
+	SNIPE7 = ~s~Temui Trevor di ~y~pabrik semen.
+	SNIPE8 = ~s~Masuk ke dalam ~b~van.
+	SNIPE9 = ~s~Kembali ke dalam ~b~van.
+}
