@@ -1,18 +1,18 @@
 ﻿Version 2 30
 {
-	MEJ1_01 = Save ~b~Jimmy.
-	MEJ1_02 = Trash the kidnappers' ~r~car.
-	MEJ1_03 = Go to the ~b~car.
-	MEJ1_04 = Take Jimmy ~y~home.
-	MEJ1_05 = Return to ~b~Jimmy.
-	MEJ1_06 = Lose the Cops.
-	MEJ1_07 = Go to ~b~Jimmy.
-	MEJ1_08 = Return to the ~b~car.
-	MEJ1_FAIL1 = ~s~Jimmy died.
-	MEJ1_FAIL2 = ~s~The kidnappers escaped with Jimmy.
-	MEJ1_FAIL3 = ~s~Jimmy was abandoned.
-	MEJ1_FAIL4 = ~s~Jimmy was injured.
-	MEJ1_FAIL5 = ~s~A kidnapper died.
+	MEJ1_01 = Selamatkan ~b~Jimmy.
+	MEJ1_02 = Hancurkan mobil para penculik itu.
+	MEJ1_03 = Pergi ke ~b~mobil.
+	MEJ1_04 = Antar Jimmy ~y~pulang.
+	MEJ1_05 = Kembali ke ~b~Jimmy.
+	MEJ1_06 = Hilangkan jejak dari Polisi.
+	MEJ1_07 = Pergi ke ~b~Jimmy.
+	MEJ1_08 = Kembali ke ~b~mobil.
+	MEJ1_FAIL1 = ~s~Jimmy meninggal.
+	MEJ1_FAIL2 = ~s~Para penculik kabur bersama Jimmy.
+	MEJ1_FAIL3 = ~s~Jimmy ditinggalkan.
+	MEJ1_FAIL4 = ~s~Jimmy terluka.
+	MEJ1_FAIL5 = ~s~Salah satu penculik meninggal.
 	MEJ1_JIM = Jimmy
-	MEJ1_WARN = Do not kill the kidnappers.
+	MEJ1_WARN = Jangan bunuh para penculik.
 }
