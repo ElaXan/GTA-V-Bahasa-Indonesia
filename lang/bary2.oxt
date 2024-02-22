@@ -1,7 +1,7 @@
 ﻿Version 2 30
 {
-	0xBB1FED5B = Destroy the ~r~clown van.~s~
-	B2_FAIL2 = The clowns overran the city.
-	B2_PRIME = Kill the ~r~clowns.~s~
-	B2_WARN = Return to the ~y~battle.~s~
+	0xBB1FED5B = Hancurkan van ~r~badut.~s~
+	B2_FAIL2 = Para badut menguasai kota.
+	B2_PRIME = Bunuh ~r~badut-badut itu.~s~
+	B2_WARN = Kembali ke ~y~pertempuran.~s~
 }
