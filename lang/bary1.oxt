@@ -1,8 +1,8 @@
 ﻿Version 2 30
 {
-	B1_FAIL = The aliens took over the Earth.
-	B1_FAIL2 = Michael was vaporized.
-	B1_FAIL3 = Michael was abducted and returned to Earth.
-	B1_WARN = Return to the ~y~battle.~s~
-	PRIME2 = Kill the ~r~aliens.~s~
+	B1_FAIL = Alien menguasai Bumi.
+	B1_FAIL2 = Michael diuapkan.
+	B1_FAIL3 = Michael diculik dan dikembalikan ke Bumi.
+	B1_WARN = Kembali ke ~y~pertarungan.~s~
+	PRIME2 = Bunuh ~r~alien-nya.~s~
 }
