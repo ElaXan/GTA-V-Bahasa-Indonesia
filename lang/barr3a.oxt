@@ -1,15 +1,15 @@
 ﻿Version 2 30
 {
-	0x9BA6AA4A = Return to the ~b~truck.~s~
-	B3ADELV = Go to Barry's ~y~apartment.~s~
-	B3AEXIT = Exit the truck.
-	B3AGETIN = Get in the ~b~truck.~s~
-	B3ALEAVE = Leave the area.
-	B3ANOTDELV = The truck was not delivered.
-	B3ARTV = Get back in the ~b~truck.~s~
-	B3ATIME = TIME
-	B3ATIMEOUT = The truck was not delivered in time.
-	B3AVHDEST = The truck was destroyed.
-	B3AVHSTUCK = The truck got stuck.
-	B3AWAN1 = Lose the Cops.
+	0x9BA6AA4A = Kembali ke ~b~truk.~s~
+	B3ADELV = Pergi ke apartemen Barry ~y~.~s~
+	B3AEXIT = Keluar dari truk.
+	B3AGETIN = Masuk ke dalam ~b~truk.~s~
+	B3ALEAVE = Tinggalkan area tersebut.
+	B3ANOTDELV = Truk itu tidak berhasil diantar.
+	B3ARTV = Masuk lagi ke dalam ~b~truk.~s~
+	B3ATIME = WAKTU
+	B3ATIMEOUT = Truk itu tidak diantar tepat waktu.
+	B3AVHDEST = Truk itu hancur.
+	B3AVHSTUCK = Truk itu terjebak.
+	B3AWAN1 = Hilangkan Polisi.
 }
