@@ -1,25 +1,25 @@
 ﻿Version 2 30
 {
-	0x935B42B5 = Tracey was injured.
-	MET1ABANDON = Tracey was abandoned.
-	MET1CHASE = Stop the stalker's ~r~car.~s~
-	MET1CPSTALK = The cops scared off the stalker.
-	MET1DLT = Return to ~b~Tracey.~s~
-	MET1ESCAPE = The stalker escaped.
-	MET1GETBKT = Get back in Tracey's ~b~car.~s~
-	MET1HOME = Take Tracey ~y~home.~s~
-	MET1HOTEL = Take Tracey to the ~y~hotel.~s~
-	MET1INITDRV = Go to ~b~Tracey.~s~
-	MET1KSTKBLU = Deal with the ~b~stalker.~s~
-	MET1KSTKRED = Deal with the ~r~stalker.~s~
-	MET1LBSTALK = Stalker
+	0x935B42B5 = Tracey terluka.
+	MET1ABANDON = Tracey ditinggalkan.
+	MET1CHASE = Hentikan mobil ~r~penguntit.~s~
+	MET1CPSTALK = Polisi membuat penguntit kabur.
+	MET1DLT = Kembali ke ~b~Tracey.~s~
+	MET1ESCAPE = Penguntit kabur.
+	MET1GETBKT = Masuk lagi ke mobil ~b~Tracey.~s~
+	MET1HOME = Antar Tracey ~y~pulang.~s~
+	MET1HOTEL = Antar Tracey ke ~y~hotel.~s~
+	MET1INITDRV = Pergi ke ~b~Tracey.~s~
+	MET1KSTKBLU = Hadapi ~b~penguntit.~s~
+	MET1KSTKRED = Hadapi ~r~penguntit.~s~
+	MET1LBSTALK = Penguntit
 	MET1LBTRAC = Tracey
-	MET1STUCK = Tracey's car got stuck.
-	MET1TCAR = Get in Tracey's ~b~car.~s~
-	MET1TOOLATE = Tracey was not met in time.
-	MET1TRAKILL = Tracey died.
-	MET1TRASCARE = Tracey was spooked.
-	MET1TWRECK = Tracey's car was destroyed.
-	MET1WAIT = Wait for ~b~Tracey.~s~
-	MET1WANT = Lose the Cops.
+	MET1STUCK = Mobil Tracey macet.
+	MET1TCAR = Masuk ke mobil ~b~Tracey.~s~
+	MET1TOOLATE = Tracey tidak ditemui tepat waktu.
+	MET1TRAKILL = Tracey meninggal.
+	MET1TRASCARE = Tracey ketakutan.
+	MET1TWRECK = Mobil Tracey hancur.
+	MET1WAIT = Tunggu ~b~Tracey.~s~
+	MET1WANT = Hilangkan Polisi.
 }
