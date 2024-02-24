@@ -1,21 +1,21 @@
 ﻿Version 2 30
 {
-	PAP1_01 = Drive alongside ~b~Miranda's car.~s~
-	PAP1_03 = Stop the ~r~rival paparazzo.~s~
-	PAP1_05 = Take Beverly to his next ~y~stakeout.~s~
-	PAP1_06 = Get back on ~b~Beverly's motorcycle.~s~
-	PAP1_08 = Return to ~b~Beverly.~s~
-	PAP1_09 = Lose the Cops.~s~
-	PAP1_10 = Get on ~b~Beverly's motorcycle.~s~
-	PAP1_F1 = ~w~Miranda died.~s~
-	PAP1_F2 = ~w~Miranda escaped.~s~
-	PAP1_F3 = ~w~Beverly's motorcycle was destroyed.~s~
-	PAP1_F4 = ~w~Beverly died.~s~
-	PAP1_F5 = ~w~The rival paparazzo escaped.~s~
-	PAP1_F6 = ~w~Beverly was abandoned.~s~
-	PAP1_F7 = ~w~Franklin attacked Miranda.~s~
-	PAP1_F9 = ~w~Beverly was spooked.~s~
-	PAP1_H1 = Drive next to the rival paparazzo so Beverly can knock him off.~s~
-	PAP1_H2 = ~s~Press ~INPUT_SPECIAL_ABILITY~ + ~INPUT_SPECIAL_ABILITY_SECONDARY~ together to activate Franklin's special ability.~s~
-	PAP1_H2_KM = ~s~Press ~INPUT_SPECIAL_ABILITY_PC~ to activate Franklin's special ability.~s~
+	PAP1_01 = Berkendara di samping mobil ~b~Miranda.~s~
+	PAP1_03 = Hentikan paparazzo ~r~saingan itu.~s~
+	PAP1_05 = Antar Beverly ke pengintaian ~y~berikutnya.~s~
+	PAP1_06 = Kembali ke motor ~b~Beverly.~s~
+	PAP1_08 = Kembali ke ~b~Beverly.~s~
+	PAP1_09 = Hilangkan jejak dari Polisi.~s~
+	PAP1_10 = Naik motor ~b~Beverly.~s~
+	PAP1_F1 = ~w~Miranda meninggal.~s~
+	PAP1_F2 = ~w~Miranda kabur.~s~
+	PAP1_F3 = ~w~Motor Beverly hancur.~s~
+	PAP1_F4 = ~w~Beverly meninggal.~s~
+	PAP1_F5 = ~w~Paparazzo saingan kabur.~s~
+	PAP1_F6 = ~w~Beverly ditinggalkan.~s~
+	PAP1_F7 = ~w~Franklin menyerang Miranda.~s~
+	PAP1_F9 = ~w~Beverly ketakutan.~s~
+	PAP1_H1 = Berkendara di samping paparazzo saingan agar Beverly bisa menjatuhkannya.~s~
+	PAP1_H2 = ~s~Tekan ~INPUT_SPECIAL_ABILITY~ + ~INPUT_SPECIAL_ABILITY_SECONDARY~ bersamaan untuk mengaktifkan kemampuan spesial Franklin.~s~
+	PAP1_H2_KM = ~s~Tekan ~INPUT_SPECIAL_ABILITY_PC~ untuk mengaktifkan kemampuan spesial Franklin.~s~
 }
