@@ -1,14 +1,14 @@
 ﻿Version 2 30
 {
-	0x0C53D749 = Tax Evasion
-	0x2CDE985E = Resisting Arrest
-	0x3EA83BF1 = Vice Services
-	0x19BC721A = Public Exposure
-	0x50C1E024 = Disorderly Conduct
-	0x67F00E90 = Loitering with Intent
-	0x436F457F = Speeding Offenses
-	0x759FA9EF = DUI
-	0xD5689E3E = TARGET LOST
-	HUD_RNG = OUT OF RANGE
-	SCAN = Scanning...
+	0x0C53D749 = Penggelapan Pajak
+	0x2CDE985E = Melawan Penangkapan
+	0x3EA83BF1 = Jasa Kegiatan Terlarang
+	0x19BC721A = Pemajangan di Tempat Umum
+	0x50C1E024 = Perilaku Tidak Teratur
+	0x67F00E90 = Menganggur dengan Niat
+	0x436F457F = Pelanggaran Kecepatan
+	0x759FA9EF = Mengemudi di Bawah Pengaruh
+	0xD5689E3E = TARGET HILANG
+	HUD_RNG = DI LUAR JANGKAUAN
+	SCAN = Memindai...
 }
