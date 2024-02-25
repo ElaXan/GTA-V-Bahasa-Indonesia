@@ -1,22 +1,22 @@
 ﻿Version 2 30
 {
-	0x77535E52 = ~s~The job was blown.
-	CAR4_CDOOR = Get inside.
-	CAR4_CGAR = ~s~The Cops learned the location of the garage.
-	CAR4_CLEFT = ~s~The car was abandoned.
-	CAR4_CUND = ~s~The car got stuck.
-	CAR4_DATTA = ~s~Devin was attacked.
-	CAR4_DCAR = Deliver the car to the ~y~garage.
-	CAR4_DDEAD = ~s~Devin died.
-	CAR4_EGIRL = Get rid of the actress.
-	CAR4_FAIL = ~s~Mission Failed
-	CAR4_GGAR = ~s~The actress learned the location of the garage.
-	CAR4_HALERT = Studio security was alerted.~s~
-	CAR4_HCARE = Press ~INPUT_SCRIPT_RLEFT~ to see what the red button does.~s~
-	CAR4_HCARS = Press ~INPUT_SCRIPT_LS~ to drop spikes.
-	CAR4_HKO = You can knock out the actor to get his clothes.~s~
-	CAR4_LCAR = Locate the car.
-	CAR4_LSEC = Lose the ~r~security.
-	CAR4_SGAR = ~s~The security learned the location of the garage.
-	CAR4_TMSTA = Find the ~r~actor.~s~
+	0x77535E52 = ~s~Pekerjaan itu gagal total.
+	CAR4_CDOOR = Masuk ke dalam.
+	CAR4_CGAR = ~s~Polisi tahu lokasi garasi.
+	CAR4_CLEFT = ~s~Mobil itu ditinggalkan.
+	CAR4_CUND = ~s~Mobil itu terjebak.
+	CAR4_DATTA = ~s~Devin diserang.
+	CAR4_DCAR = Antar mobil ke ~y~garasi.
+	CAR4_DDEAD = ~s~Devin mati.
+	CAR4_EGIRL = Singkirkan aktris itu.
+	CAR4_FAIL = ~s~Misi Gagal
+	CAR4_GGAR = ~s~Aktris itu tahu lokasi garasi.
+	CAR4_HALERT = Keamanan studio diingatkan.~s~
+	CAR4_HCARE = Tekan ~INPUT_SCRIPT_RLEFT~ untuk lihat apa yang dilakukan tombol merah.~s~
+	CAR4_HCARS = Tekan ~INPUT_SCRIPT_LS~ untuk menjatuhkan ranjau.
+	CAR4_HKO = Kamu bisa memukul aktor itu untuk mendapatkan pakaiannya.~s~
+	CAR4_LCAR = Temukan mobilnya.
+	CAR4_LSEC = Hilangkan ~r~keamanan.
+	CAR4_SGAR = ~s~Keamanan tahu lokasi garasi.
+	CAR4_TMSTA = Temukan ~r~aktor.~s~
 }
