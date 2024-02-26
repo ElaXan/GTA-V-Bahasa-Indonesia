@@ -1,10 +1,10 @@
 ﻿Version 2 30
 {
-	EXHALE_NEW = While holding ~INPUTGROUP_SCRIPT_LSTICK_ALL~ and ~INPUTGROUP_SCRIPT_RSTICK_ALL~ in position,~n~release ~INPUT_SCRIPT_LT~ and ~INPUT_SCRIPT_RT~ to exhale.~n~
-	H_YOGA_QUIT = Quit
-	INHALE_NEW = While holding ~INPUTGROUP_SCRIPT_LSTICK_ALL~ and ~INPUTGROUP_SCRIPT_RSTICK_ALL~ in position,~n~press and hold ~INPUT_SCRIPT_LT~ and ~INPUT_SCRIPT_RT~ to inhale.~n~
-	STICKS = Move ~INPUTGROUP_SCRIPT_LSTICK_ALL~ and ~INPUTGROUP_SCRIPT_RSTICK_ALL~ to the displayed positions and hold.
-	STICKS_KM = Move ~INPUTGROUP_SCRIPT_LSTICK_ALL~ and ~INPUTGROUP_SCRIPT_RSTICK_ALL~ to the displayed positions and hold. Press ~INPUT_SCRIPT_RDOWN~ to swap mouse and keys for left-handed use.
-	YOGA_QUIT = QUIT
-	YOGA_QUIT_INST = Are you sure you want to quit Yoga?
+	EXHALE_NEW = Sambil memegang ~INPUTGROUP_SCRIPT_LSTICK_ALL~ dan ~INPUTGROUP_SCRIPT_RSTICK_ALL~ dalam posisi,~n~lepas ~INPUT_SCRIPT_LT~ dan ~INPUT_SCRIPT_RT~ untuk menghembuskan nafas.~n~
+	H_YOGA_QUIT = Keluar
+	INHALE_NEW = Sambil memegang ~INPUTGROUP_SCRIPT_LSTICK_ALL~ dan ~INPUTGROUP_SCRIPT_RSTICK_ALL~ dalam posisi,~n~tekan dan tahan ~INPUT_SCRIPT_LT~ dan ~INPUT_SCRIPT_RT~ untuk menarik nafas.~n~
+	STICKS = Gerakkan ~INPUTGROUP_SCRIPT_LSTICK_ALL~ dan ~INPUTGROUP_SCRIPT_RSTICK_ALL~ ke posisi yang ditampilkan dan tahan.
+	STICKS_KM = Gerakkan ~INPUTGROUP_SCRIPT_LSTICK_ALL~ dan ~INPUTGROUP_SCRIPT_RSTICK_ALL~ ke posisi yang ditampilkan dan tahan. Tekan ~INPUT_SCRIPT_RDOWN~ untuk menukar mouse dan tombol untuk penggunaan tangan kiri.
+	YOGA_QUIT = KELUAR
+	YOGA_QUIT_INST = Apakah kamu yakin ingin keluar dari Yoga?
 }
