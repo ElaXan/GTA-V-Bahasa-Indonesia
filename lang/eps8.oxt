@@ -1,23 +1,23 @@
 ﻿Version 2 30
 {
-	0x04300A02 = Press ~INPUT_VEH_CIN_CAM~ to toggle the helicopter camera.
-	0x8EB0A255 = Park near the ~b~helicopter.
-	0x228BC6B9 = Evade Epsilon's ~r~helicopter.
-	0xECD0DFB4 = Follow the ~b~Epsilonist.
-	EPS8_03 = Lose the Cops.
-	EPS8_05 = Follow Epsilon's ~b~security.
-	EPS8_06 = Get back in the ~b~car.
-	EPS8_11 = Steal the ~b~car.
-	EPS8_12 = Evade Epsilon's ~r~security.
-	EPS8_16 = Don't leave the ~b~cash~s~ behind.
-	EPS8_17 = The cash was abandoned.
-	EPS8_18 = The cash was destroyed.
-	EPS8_19 = The car was destroyed.
-	EPS8_20 = Get back in the ~b~helicopter.
-	EPS8_21 = Steal the ~g~cash bag.
-	EPS8_23 = Michael didn't deliver the cash in time.
-	EPS8_25 = Don't let the ~b~car~s~ escape.
-	EPS8_26 = The car escaped.
-	EPS8_27 = Exit the car.
-	EPS8_28 = Park the car at the ~y~drop-off point.
+	0x04300A02 = Tekan ~INPUT_VEH_CIN_CAM~ untuk mengganti kamera helikopter.
+	0x8EB0A255 = Parkir dekat ~b~helikopter.
+	0x228BC6B9 = Hindari helikopter ~r~Epsilon.
+	0xECD0DFB4 = Ikuti ~b~Epsilonist.
+	EPS8_03 = Kabur dari Polisi.
+	EPS8_05 = Ikuti keamanan ~b~Epsilon.
+	EPS8_06 = Kembali ke dalam ~b~mobil.
+	EPS8_11 = Curi ~b~mobilnya.
+	EPS8_12 = Hindari keamanan ~r~Epsilon.
+	EPS8_16 = Jangan tinggalkan ~b~uang~s~ di belakang.
+	EPS8_17 = Uangnya ditinggalkan.
+	EPS8_18 = Uangnya hancur.
+	EPS8_19 = Mobilnya hancur.
+	EPS8_20 = Kembali ke dalam ~b~helikopter.
+	EPS8_21 = Curi tas ~g~uang.
+	EPS8_23 = Michael tidak mengantar uang tepat waktu.
+	EPS8_25 = Jangan biarkan ~b~mobil~s~ kabur.
+	EPS8_26 = Mobilnya kabur.
+	EPS8_27 = Keluar dari mobil.
+	EPS8_28 = Parkir mobil di titik ~y~penurunan.
 }
