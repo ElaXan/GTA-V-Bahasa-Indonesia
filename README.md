@@ -1,20 +1,20 @@
-# GTA V Bahasa Indonesia Translation Project
+# Proyek Terjemahan Bahasa Indonesia GTA V
 
-Welcome to the GTA V Bahasa Indonesia Translation Project. This project aims to translate the vast world of GTA V into Bahasa Indonesia, making it more accessible and enjoyable for Indonesian speakers. Currently, the project is in its early stages
+Selamat datang di Proyek Terjemahan Bahasa Indonesia GTA V. Proyek ini bertujuan untuk menerjemahkan dunia luas GTA V ke dalam Bahasa Indonesia, membuatnya lebih mudah diakses dan menyenangkan bagi penutur Bahasa Indonesia. Saat ini, proyek ini masih dalam tahap awal.
 
-## Installation
+## Instalasi
 
-To install the partial translation into your game, you will need to use OpenIV, a multi-purpose editor and archive manager for PC versions of Grand Theft Auto V, GTA IV/EFLC, and Max Payne 3.
+Untuk menginstal terjemahan sebagian ke dalam game Anda, Anda akan memerlukan OpenIV, editor serbaguna dan manajer arsip untuk versi PC dari Grand Theft Auto V, GTA IV/EFLC, dan Max Payne 3.
 
-### Steps:
+### Langkah-langkah:
 
-1. Download the latest version of the mod from the [Releases](https://github.com/ElaXan/GTA-V-Bahasa-Indonesia/releases/latest) page.
-2. Download and install OpenIV from [the official website](https://openiv.com/).
-3. Run OpenIV and select GTA V for Windows.
-4. Click `Tools > ASI Manager` and ensure the ASI Loader and OpenIV.ASI are installed.
-5. Drag the downloaded `.oiv` file directly into the OpenIV window to start the installation process.
-6. Follow the prompts in OpenIV to complete the installation of the mod.
-7. Close OpenIV and start your game. The translation should now be applied.
+1. Unduh versi terbaru mod dari halaman [Rilis](https://github.com/ElaXan/GTA-V-Bahasa-Indonesia/releases/latest).
+2. Unduh dan instal OpenIV dari [situs resmi](https://openiv.com/).
+3. Jalankan OpenIV dan pilih GTA V untuk Windows.
+4. Klik `Tools > ASI Manager` dan pastikan ASI Loader dan OpenIV.ASI telah terinstal.
+5. Seret file `.oiv` yang telah diunduh langsung ke dalam jendela OpenIV untuk memulai proses instalasi.
+6. Ikuti petunjuk di OpenIV untuk menyelesaikan instalasi mod.
+7. Tutup OpenIV dan mulai game Anda. Terjemahan sekarang harus telah diterapkan.
 
 ## Screenshot
 
