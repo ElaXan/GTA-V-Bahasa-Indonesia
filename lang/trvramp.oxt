@@ -1,25 +1,25 @@
 ﻿Version 2 30
 {
-	0x80EB326A = Rampage
-	CH_000 = Get ~1~ Kills
-	CH_001 = Get ~1~ Headshots
-	CH_003 = Destroy ~1~ Vehicles
-	CH_008 = Destroy ~1~ Tanks
-	RAMPAGE = ~l~RAMPAGE
-	RO_RATE = Rating
-	RPASSED = ~y~Passed
-	TR_FAIL = Trevor didn't eliminate enough targets.
-	TR_HKILL = ~r~KILLS
-	TR_HTIME = TIME
-	TR_RAMP1 = Rampage: Rednecks
-	TR_RAMP2 = Rampage: Vagos
-	TR_RAMP3 = Rampage: Ballas
-	TR_RAMP4 = Rampage: Military
-	TR_RAMP5 = Rampage: Hipsters
-	TR_ROBJ1 = Neutralize ~1~ ~a~.
+	0x80EB326A = Mengamuk
+	CH_000 = Dapatkan ~1~ Pembunuhan
+	CH_001 = Dapatkan ~1~ Tembakan Kepala
+	CH_003 = Hancurkan ~1~ Kendaraan
+	CH_008 = Hancurkan ~1~ Tank
+	RAMPAGE = ~l~MENGAMUK
+	RO_RATE = Peringkat
+	RPASSED = ~y~Lulus
+	TR_FAIL = Trevor gagal menghabisi cukup banyak target.
+	TR_HKILL = ~r~PEMBUNUHAN
+	TR_HTIME = WAKTU
+	TR_RAMP1 = Mengamuk: Rednecks
+	TR_RAMP2 = Mengamuk: Vagos
+	TR_RAMP3 = Mengamuk: Ballas
+	TR_RAMP4 = Mengamuk: Militer
+	TR_RAMP5 = Mengamuk: Hipsters
+	TR_ROBJ1 = Netralisir ~1~ ~a~.
 	TR_RTGT1 = Rednecks
-	TR_RTGT2 = Killer Hipsters
-	TR_RTGT3 = Gang Members
-	TR_RTGT4 = Gang Members
-	TR_RTGT5 = Attacking Soldiers
+	TR_RTGT2 = Hipsters Pembunuh
+	TR_RTGT3 = Anggota Geng
+	TR_RTGT4 = Anggota Geng
+	TR_RTGT5 = Tentara Penyerang
 }
