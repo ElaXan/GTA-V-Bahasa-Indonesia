@@ -4993,7 +4993,7 @@
 	0xAB577FFD = Heavy Weapon
 	0xAB870D9A = ~1~ - Hiders
 	0xAB9113F3 = The ~r~Riders~s~ have lost their powers
-	0xAB12754D = Accuracy
+	0xAB12754D = Akurasi
 	0xAB269144 = Full Loop
 	0xAB417899 = My Score
 	0xAB625314 = Track Bend Bar Medium Outside Barrier
@@ -7760,7 +7760,7 @@
 	FMMCCPD_H6 = Actors will usually flee from drop-off positions. Set this if you want the Actors to keep doing what they are doing.
 	FMMCCPD_P2 = Patrol Range
 	FMMCCPD_P3 = Will Flee
-	FMMCCPD_P4 = Accuracy
+	FMMCCPD_P4 = Akurasi
 	FMMCCPD_P5 = Combat Style
 	FMMCCPD_P6 = Don't Flee Drop-Offs
 	FMMCCPD_P7 = Respawn range
