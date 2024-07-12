@@ -10,17 +10,33 @@ from typing import List
 
 def check_duplicate_key(list_file: List[str]):
     duplicate_keys = defaultdict(list)
-    for file_path in list_file:
-        with open(file_path, 'r', encoding='utf-8') as file:
-            for line in file:
-                key = line.split('=')[0].strip()
-                duplicate_keys[key].append(file_path)
+    ignored_keys = {'Version 2 30', ''}
     
-    for key, files in duplicate_keys.items():
-        if len(files) > 1:
-            if key in ['', 'Version 2 30']:
-                continue
-            print(f"Duplicate key '{key}' found in files: {', '.join(files)}")
+    for file_path in list_file:
+        file_keys = set()
+        with open(file_path, 'r', encoding='utf-8') as file:
+            in_block = False
+            for line_num, line in enumerate(file, 1):
+                line = line.strip()
+                if line == '{':
+                    in_block = True
+                elif line == '}':
+                    in_block = False
+                elif in_block and '=' in line:
+                    key = line.split('=')[0].strip()
+                    if key not in ignored_keys:
+                        if key in file_keys:
+                            duplicate_keys[key].append((file_path, line_num))
+                        else:
+                            file_keys.add(key)
+                            duplicate_keys[key].append((file_path, line_num))
+    
+    for key, occurrences in duplicate_keys.items():
+        if len(occurrences) > 1:
+            print(f"Duplicate key '{key}' found:")
+            for file_path, line_num in occurrences:
+                print(f"  - {file_path} (line {line_num})")
+            print()
 
 def main():
     """
