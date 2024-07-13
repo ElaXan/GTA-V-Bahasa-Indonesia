@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<package version="2.2" id="{12345678-90AB-CDEF-1234-567890ABCDEF}" target="Five">
+  <metadata>
+    <name>GTA V Bahasa Indonesia</name>
+    <version>
+      <major>1</major>
+      <minor>3</minor>
+      <tag>Version</tag>
+    </version>
+    <author>
+      <displayName>ElaXan</displayName>
+      <actionLink>https://elaxan.com</actionLink>
+      <web>https://github.com/ElaXan/GTA-V-Bahasa-Indonesia</web>
+      <facebook/>
+      <twitter/>
+      <youtube linkKind="channel"/>
+    </author>
+    <description footerLink="Saweria" footerLinkTitle="https://saweria.co/ElaXan"><![CDATA[Mod ini mengubah text atau subtitles menjadi Bahasa Indonesia, namun ini masih dalam tahap pengerjaan atau belum selesai. Dan kamu akan melihat beberapa masih dalama Bahasa Inggris]]></description>
+    <largeDescription displayName="" footerLink="" footerLinkTitle=""><![CDATA[]]></largeDescription>
+  </metadata>
+  <colors>
+    <headerBackground useBlackTextColor="True">$FFFF0000</headerBackground>
+    <iconBackground>$FFFFFFFF</iconBackground>
+  </colors>
+  <content>
+    <archive path="update\update2.rpf" createIfNotExist="True" type="RPF7">
+      <add source="american_rel.rpf">x64\data\lang\american_rel.rpf</add>
+    </archive>
+  </content>
+</package>
