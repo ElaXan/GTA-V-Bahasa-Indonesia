@@ -1,5 +1,5 @@
 """
-Simplified script to check for duplicate translation keys in specified or all files within the `lang` and `original` directories.
+Simplified script to check for duplicate translation keys in specified or all files within the `update2` and `original` directories.
 """
 
 import argparse
@@ -42,7 +42,7 @@ def main():
     """
     Main function to parse arguments and check for duplicate keys.
     """
-    parser = argparse.ArgumentParser(description='Check for duplicate translation keys in specified or all files within the `lang` and `original` directories.')
+    parser = argparse.ArgumentParser(description='Check for duplicate translation keys in specified or all files within the `update2` and `original` directories.')
     parser.add_argument('--file', dest='file_path', help='The file path to check for duplicates', required=False)
     args = parser.parse_args()
     
@@ -55,10 +55,10 @@ def main():
             return
         list_file = [args.file_path]
     else:
-        if not os.path.exists('lang'):
-            print('Directory `lang` does not exist')
+        if not os.path.exists('update2'):
+            print('Directory `update2` does not exist')
             return
-        list_file = [os.path.join('lang', file) for file in os.listdir('lang') if file.endswith('.oxt')]
+        list_file = [os.path.join('update2', file) for file in os.listdir('update2') if file.endswith('.oxt')]
     
     check_duplicate_key(list_file)
 
