@@ -1,0 +1,11 @@
+[package]
+name = "gta-v-bahasa"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+zip = "2.1"
+
+[dependencies.clap]
+version = "4.4"
+features = ["derive"]
