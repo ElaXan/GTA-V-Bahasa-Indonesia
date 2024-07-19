@@ -119,31 +119,42 @@ fn main() {
                     "Destination file '{}' already exists. Overwrite? (y/N): ",
                     args.dest_path
                 );
-                io::stdout().flush().unwrap();
+                if let Err(e) = io::stdout().flush() {
+                    println!("Failed to flush stdout: {}", e);
+                    std::process::exit(1);
+                }
 
                 let mut input = String::new();
-                io::stdin().read_line(&mut input).unwrap();
+                if let Err(e) = io::stdin().read_line(&mut input) {
+                    println!("Failed to read line: {}", e);
+                    std::process::exit(1);
+                }
                 let input = input.trim().to_lowercase();
                 if input == "n" || input == "no" {
                     println!("Operation cancelled.");
                     std::process::exit(1);
                 }
             }
-            build_to_oiv(&args.dest_path).unwrap();
-            println!("Build to {} success", args.dest_path);
+            match build_to_oiv(&args.dest_path) {
+                Ok(_) => println!("Build to {} success", args.dest_path),
+                Err(e) => println!("Build to {} failed: {}", args.dest_path, e),
+            };
         }
         Commands::Check(args) => {
             if !std::path::Path::new(&args.path).exists() {
-                println!("Path '{}' does not exist", args.path);
+                println!("Path {:?} does not exist", args.path);
                 std::process::exit(1);
             }
-            if !std::fs::metadata(&args.path).unwrap().is_dir() {
-                println!("{} is not a directory", args.path);
+            if let Err(e) = std::fs::metadata(&args.path) {
+                println!("{:?} is not a directory ({})", args.path, e);
                 std::process::exit(1);
             }
             let mut list_file = Vec::new();
             for entry in std::fs::read_dir(args.path.clone()).unwrap() {
-                let entry = entry.unwrap();
+                let entry = entry.unwrap_or_else(|e| {
+                    println!("Failed to read directory entry: {}", e);
+                    std::process::exit(1);
+                });
                 let path = entry.path();
                 if path.is_file() && path.extension().map_or(false, |ext| ext == "oxt") {
                     list_file.push(path.to_string_lossy().into_owned());
@@ -153,7 +164,10 @@ fn main() {
                 println!("No list file found in {}", args.path);
                 std::process::exit(1);
             }
-            check_duplicate_key(list_file).unwrap();
+            if let Err(e) = check_duplicate_key(list_file) {
+                println!("Check duplicate key failed: {}", e);
+                std::process::exit(1);
+            }
         }
     }
 }
