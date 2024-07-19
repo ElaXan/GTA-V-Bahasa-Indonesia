@@ -32,7 +32,7 @@ struct BuildArgs {
     about = "Check for duplicate keys across multiple .oxt files in a specified folder"
 )]
 struct CheckArgs {
-    #[arg(short, long)]
+    #[arg(short, long, default_value = "update2")]
     path: String,
 }
 
