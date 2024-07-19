@@ -88,6 +88,8 @@ fn build_to_oiv(dest_path: &str) -> io::Result<()> {
 
     let mut assembly = File::open("assembly.xml").expect("assembly.xml not found");
     let mut american_rpf = File::open("american_rel.rpf").expect("american_rel.rpf not found");
+    let mut menyoo_translate =
+        File::open("Menyoo/Indonesian.json").expect("Menyoo/Indonesian.json not found");
 
     zip.add_directory("", options)?;
 
@@ -98,6 +100,9 @@ fn build_to_oiv(dest_path: &str) -> io::Result<()> {
 
     zip.start_file("content/american_rel.rpf", options)?;
     io::copy(&mut american_rpf, &mut zip)?;
+    zip.add_directory("content/menyoo/", options)?;
+    zip.start_file("content/menyoo/Indonesian.json", options)?;
+    io::copy(&mut menyoo_translate, &mut zip)?;
 
     zip.finish()?;
 
