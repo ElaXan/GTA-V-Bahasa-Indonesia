@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<package version="2.2" id="{12345678-90AB-CDEF-1234-567890ABCDEF}" target="Five">
+<package version="2.2" id="{577da7f1-9044-4be3-a6f3-40bc17a04ed7}" target="Five">
   <metadata>
     <name>GTA V Bahasa Indonesia</name>
     <version>
@@ -26,5 +26,6 @@
     <archive path="update\update2.rpf" createIfNotExist="True" type="RPF7">
       <add source="american_rel.rpf">x64\data\lang\american_rel.rpf</add>
     </archive>
+    <add source="Menyoo\Indonesian.json">menyooStuff\Language\Indonesian.json</add>
   </content>
 </package>
