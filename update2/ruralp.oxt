@@ -1,14 +1,14 @@
 ﻿Version 2 30
 {
-	RHP_BK = ~s~Get back in the vehicle carrying the ~b~hardware.~s~
-	RHP_EXIT = ~s~Get out of the truck.
-	RHP_FABN = ~w~The hardware was abandoned.~s~
-	RHP_FDES = ~w~The transport truck was destroyed.~s~
-	RHP_FEND = ~w~The convoy reached the base.~s~
-	RHP_GOODS = ~s~Intercept the ~b~military hardware.~s~
-	RHP_HELP = ~s~The hardware must not be destroyed.
-	RHP_KILL = ~s~Take out the remaining ~r~guards.~s~
-	RHP_LWARN = ~s~Don't leave the ~b~hardware.~s~
-	RHP_RTN = ~s~Go to the ~y~meth lab.~s~
-	RHP_TRKSTCK = ~s~The transport truck got stuck.
+	RHP_BK = ~s~Kembali ke kendaraan yang membawa ~b~perangkat keras.~s~
+	RHP_EXIT = ~s~Keluar dari truk.
+	RHP_FABN = ~w~Perangkat keras ditinggalkan.~s~
+	RHP_FDES = ~w~Truk pengangkut hancur.~s~
+	RHP_FEND = ~w~Konvoi telah mencapai markas.~s~
+	RHP_GOODS = ~s~Cegat ~b~perangkat keras militer.~s~
+	RHP_HELP = ~s~Perangkat keras tidak boleh hancur.
+	RHP_KILL = ~s~Habisi ~r~penjaga~s~ yang tersisa.
+	RHP_LWARN = ~s~Jangan tinggalkan ~b~perangkat keras.~s~
+	RHP_RTN = ~s~Pergi ke ~y~lab sabu.~s~
+	RHP_TRKSTCK = ~s~Truk pengangkut terjebak.
 }
