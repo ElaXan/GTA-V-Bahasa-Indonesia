@@ -1,16 +1,16 @@
 ﻿Version 2 30
 {
-	0xFAD908D1 = Enter the gun shop.
-	PRE_BLIP = Boiler Suits
-	PRE_BUYF = Buy a boiler suit for Franklin.
-	PRE_BUYM = Buy a boiler suit for Michael.
-	PRE_BUYT = Buy a boiler suit for Trevor.
-	PRE_CASH = The required boiler suits were not purchased due to insufficient funds.
-	PRE_COPS = The Cops were alerted.
-	PRE_FKICKOFF = Unable to purchase the required boiler suits.
-	PRE_FLEFT = Ammu-Nation was abandoned.
-	PRE_GCLOTH = Buy three ~g~boiler suits.
-	PRE_LEAVE = Leave Ammu-Nation.
-	PRE_RETSHOP = Return to the ~y~shop.
-	PRE_SHOP = Shop
+	0xFAD908D1 = Masuk ke toko senjata.
+	PRE_BLIP = Baju Kerja
+	PRE_BUYF = Beli baju kerja untuk Franklin.
+	PRE_BUYM = Beli baju kerja untuk Michael.
+	PRE_BUYT = Beli baju kerja untuk Trevor.
+	PRE_CASH = Baju kerja yang diperlukan tidak dibeli karena duit lo kurang, bego.
+	PRE_COPS = Polisi sialan udah dikasih tau.
+	PRE_FKICKOFF = Gak bisa beli baju kerja yang diperlukan, anjing.
+	PRE_FLEFT = Ammu-Nation ditinggalin gitu aja.
+	PRE_GCLOTH = Beli tiga ~g~baju kerja.
+	PRE_LEAVE = Keluar dari Ammu-Nation.
+	PRE_RETSHOP = Balik ke ~y~toko.
+	PRE_SHOP = Belanja
 }

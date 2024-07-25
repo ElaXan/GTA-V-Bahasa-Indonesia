@@ -1,15 +1,15 @@
 ﻿Version 2 30
 {
-	0x2B9F303D = Leave the shop.
-	PRD_BLIP = Masks
-	PRD_BUYF = Buy a mask for Franklin.
-	PRD_BUYM = Buy a mask for Michael.
-	PRD_BUYT = Buy a mask for Trevor.
-	PRD_CASH = The required masks were not purchased due to insufficient funds.
-	PRD_COPS = The Cops were alerted.
-	PRD_FKICKOFF = Unable to purchase the required masks.
-	PRD_FLEFT = The mask shop was abandoned.
-	PRD_GCLOTH = Buy three ~g~masks.
-	PRD_RETSHOP = Return to the ~y~store.
-	PRD_SHOP = Shop
+	0x2B9F303D = Keluar dari toko.
+	PRD_BLIP = Topeng
+	PRD_BUYF = Beli topeng untuk Franklin.
+	PRD_BUYM = Beli topeng untuk Michael.
+	PRD_BUYT = Beli topeng untuk Trevor.
+	PRD_CASH = Topeng yang diperlukan tidak dibeli karena duit lu kurang, bego.
+	PRD_COPS = Polisi udah dikasih tau, sialan.
+	PRD_FKICKOFF = Gak bisa beli topeng yang diperlukan, anjing.
+	PRD_FLEFT = Lu kabur dari toko topeng, pengecut.
+	PRD_GCLOTH = Beli tiga ~g~topeng.
+	PRD_RETSHOP = Balik ke ~y~toko.
+	PRD_SHOP = Belanja
 }

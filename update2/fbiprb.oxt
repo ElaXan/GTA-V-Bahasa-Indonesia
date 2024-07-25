@@ -1,12 +1,12 @@
 ﻿Version 2 30
 {
-	PRB_FFAR = The tow truck was abandoned.
-	PRB_FSTUCK = The tow truck is stuck.
-	PRB_FWRECK = The tow truck was wrecked.
-	PRB_GOVAN = Steal the ~b~tow truck.
-	PRB_LEVAREA = Leave the area.
-	PRB_LEVVEH = Leave the tow truck.
-	PRB_LOSETOW = Lose the ~r~mechanic.
-	PRB_RETVEH = Get back in the ~b~tow truck.
-	PRB_TAKBACK = Take the tow truck to the ~y~FIB lot.
+	PRB_FFAR = Truk derek itu ditinggalkan begitu saja.
+	PRB_FSTUCK = Truk derek itu nyangkut.
+	PRB_FWRECK = Truk derek itu hancur.
+	PRB_GOVAN = Curi ~b~truk derek itu.
+	PRB_LEVAREA = Cabut dari area ini.
+	PRB_LEVVEH = Keluar dari truk derek.
+	PRB_LOSETOW = Lepaskan diri dari ~r~montir sialan itu.
+	PRB_RETVEH = Balik lagi ke ~b~truk derek.
+	PRB_TAKBACK = Bawa truk derek itu ke ~y~tempat FIB.
 }
